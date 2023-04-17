@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently a CSE 3rd Year Undergrad.<br>⚡Lead Organizer @Hack4Bengal<br>🌱 I’m currently learning how to lead communities.<br>👯 I’m looking to collaborate with other communities and work together.<br>🤔 I’m looking for help with a tool for maintaining a community.<br>📫 How to reach me: Mail me @ sdam27022002@gmail.com
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanmoydam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanmoydam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanmoydam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanmoydam) 

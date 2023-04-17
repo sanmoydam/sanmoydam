@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sanmoy Dam</h1>
+<h3 align="center">CSE 3rd Year Undergrad</h3>
+	
+I am a highly motivated, passionate, and determined Community Guy. I have proven skills and adaptability gained through the events and work placements in various organi. Currently, I am a Community Specialist Intern at Unacademy and have managed CodeChef College Chapters all over India. Currently managing the CodeChef College Program for universities and colleges.
+
+
 # 💫 About Me:
 🔭 I’m currently a CSE 3rd Year Undergrad.<br>⚡Lead Organizer @Hack4Bengal<br>🌱 I’m currently learning how to lead communities.<br>👯 I’m looking to collaborate with other communities and work together.<br>🤔 I’m looking for help with a tool for maintaining a community.<br>📫 How to reach me: Mail me @ sdam27022002@gmail.com
 
